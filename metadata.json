@@ -1,0 +1,6 @@
+{
+  "name": "AquaSmart",
+  "description": "Smart Weather-Based IoT Irrigation System — Real-time sensor monitoring, automated weather-aware irrigation decision engine, crop management, analytics, and AI agronomy recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
